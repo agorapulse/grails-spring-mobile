@@ -1,4 +1,4 @@
-package spring.mobile
+package grails.plugins.spring.mobile
 
 import grails.boot.GrailsApp
 import grails.boot.config.GrailsAutoConfiguration
