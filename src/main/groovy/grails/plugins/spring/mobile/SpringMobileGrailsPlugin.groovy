@@ -54,8 +54,8 @@ class SpringMobileGrailsPlugin extends Plugin {
 
     Closure doWithSpring() {
         { ->
-            deviceResolver(LiteDeviceResolver)
-            deviceResolverHandlerInterceptor(DeviceResolverHandlerInterceptor, ref('deviceResolver'))
+            springMobileDeviceResolver(LiteDeviceResolver)
+            springMobileDeviceResolverHandlerInterceptor(DeviceResolverHandlerInterceptor, ref('springMobileDeviceResolver'))
         }
     }
 
