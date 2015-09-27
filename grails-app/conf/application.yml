@@ -2,7 +2,7 @@ grails:
     profile: web-plugin
     doc:
         title: 'Grails Spring Mobile Plugin'
-       subtitle: 'Spring Mobile is an extension to Spring MVC that aims to simplify the development of mobile web applications.'
+        subtitle: 'Spring Mobile is an extension to Spring MVC that aims to simplify the development of mobile web applications.'
         authors: 'Alexey Zhokhov'
         copyright: 'Copies of this document may be made for your own use and for distribution to others, provided that you do not charge any fee for such copies and further provided that each copy contains this Copyright Notice, whether distributed in print or electronically.'
         footer: "Developed by <a href='http://www.zhokhov.com'>Alexey Zhokhov</a>"
