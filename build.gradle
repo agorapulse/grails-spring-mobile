@@ -56,7 +56,7 @@ grailsPublish {
     license {
         name = 'Apache-2.0'
     }
-    title = "segment"
+    title = "spring-mobile"
     desc = "Grails Spring Mobile plugin"
     developers = [benorama:"Benoit Hediard", donbeave:"Alexey Zhokhov", burtbeckwith:"Burt Beckwith", sebastienblanc:"Sebastien Blanc"]
     portalUser = ""
