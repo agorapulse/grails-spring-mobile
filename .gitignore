@@ -1,11 +1,21 @@
-Thumbs.db
-.DS_Store
-.gradle
+# Grails
+
+application-development.yml
+application-test.yml
+
+# Gradle
+
 build/
-.idea
+.gradle/
+
+# IDEA
+
 *.iml
 *.ipr
 *.iws
-.project
-.settings
-.classpath
+.idea/
+.asscache
+
+# PAW
+
+*.paw

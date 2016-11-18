@@ -1,4 +1,5 @@
 Grails Spring Mobile Plugin
 ==================
 
-[![Build Status](https://circleci.com/gh/donbeave/grails-spring-mobile.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/donbeave/grails-spring-mobile)
+[![Build Status](https://travis-ci.org/agorapulse/grails-spring-mobile.png)](https://travis-ci.org/agorapulse/grails-spring-mobile)
+[![Download](https://api.bintray.com/packages/agorapulse/plugins/spring-mobile/images/download.svg)](https://bintray.com/agorapulse/plugins/spring-mobile/_latestVersion)
